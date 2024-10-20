@@ -1,1 +1,1 @@
-# destigmatize-being-dumb
+# Destigmatize being dumb
