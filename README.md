@@ -15,10 +15,9 @@ This repo is a handy collection of writing on this idea that I can send to frien
 > [...]
 > 
 > I've observed that people who are willing to ask dumb questions and think "stupid thoughts" end up understanding things much more deeply over time
-> 
-> [...]
-> 
-> most people seemed more interested in making an excuse to avoid looking stupid (or maybe feeling stupid) in the moment than actually improving, which, of course, resulted in them having many more moments where they looked stupid
+- ["The scientific virtue of stupidity"](https://slimemoldtimemold.com/2022/02/10/the-scientific-virtues/) by Slime Mold Time Mold
+> To a large extent, your skill as a researcher comes down to how well you understand how dumb you are, which is always “very”. Once you realize how stupid you are, you can start to make progress.
+  
 - TODO: that Richard Feynman story about the painter he meets who insists that he can do something physically impossible. Feynman asks instead of dismissing it. He maintain's a beginner's mind, and that allows him to learn much faster. 
 - TODO: Richard Feynman story about being the only one on a committee reviewing math textbooks to have dumb questions (and then realizing he's the only one who read the books)
 
