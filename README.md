@@ -9,6 +9,11 @@ This repo is a handy collection of writing on this idea that I can send to frien
 
 ## Articles
 
+- [Destigmatize being dumb](https://defenderofthebasic.substack.com/p/destigmatize-being-dumb) by Defender (me)
+> I’ve gotten much smarter over the past year because I no longer feel bad about being dumb. I think everyone should do this. I think it will improve your life AND society.
+>
+> A major cultural roadblock to fixing this problem is separating the notion of “a good person” from “a smart person”. We need to acknowledge that you can be very smart and also be the cause of evil in the world. 
+
 - ["Willingness to look stupid"](https://danluu.com/look-stupid/) by Dan Luu
 > overall, the upsides of being willing to look stupid have greatly outweighed the downsides
 > 
